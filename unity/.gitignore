@@ -1,0 +1,14 @@
+# Unity: generated, machine-local or rebuilt by ApBuild
+/Adaptive Path Planning v2/[Ll]ibrary/
+/Adaptive Path Planning v2/[Tt]emp/
+/Adaptive Path Planning v2/[Ll]ogs/
+/Adaptive Path Planning v2/[Uu]ser[Ss]ettings/
+/Adaptive Path Planning v2/[Oo]bj/
+/Adaptive Path Planning v2/*.csproj
+/Adaptive Path Planning v2/*.sln
+/Adaptive Path Planning v2/*.slnx
+/Adaptive Path Planning v2/.vs/
+/Adaptive Path Planning v2/Assets/StreamingAssets/
+/Adaptive Path Planning v2/Assets/StreamingAssets.meta
+/Build/
+/*.log
